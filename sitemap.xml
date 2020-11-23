@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bldn.netlify.app/archive/</loc>
+    <loc>/archive/</loc>
     <lastmod>2020-11-13T11:21:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/webgl/introduction/</loc>
+    <loc>/webgl/introduction/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/categories/webdev/</loc>
+    <loc>/categories/webdev/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/tags/webgl/</loc>
+    <loc>/tags/webgl/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/webgl/</loc>
+    <loc>/webgl/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bldn.netlify.app/difficulties/</loc>
+    <loc>/difficulties/</loc>
   </url>
   
 </urlset>
