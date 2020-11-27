@@ -6,7 +6,25 @@
     <description>Recent content on bldn.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 21:28:39 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 12:29:07 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to WebGL</title>
+      <link>/webgl/introduction/</link>
+      <pubDate>Tue, 10 Nov 2020 21:28:39 +0100</pubDate>
+      
+      <guid>/webgl/introduction/</guid>
+      <description>A brief introduction to WebGL</description>
+    </item>
+    
+    <item>
+      <title>Send Data To A Shader</title>
+      <link>/webgl/senddatatoashader/</link>
+      <pubDate>Thu, 26 Nov 2020 12:29:07 +0100</pubDate>
+      
+      <guid>/webgl/senddatatoashader/</guid>
+      <description>The various way to send data to your GPU.</description>
+    </item>
+    
     <item>
       <title>Archive</title>
       <link>/archive/</link>
@@ -14,15 +32,6 @@
       
       <guid>/archive/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Chapter1</title>
-      <link>/webgl/introduction/</link>
-      <pubDate>Tue, 10 Nov 2020 21:28:39 +0100</pubDate>
-      
-      <guid>/webgl/introduction/</guid>
-      <description>A brief introduction to WebGL</description>
     </item>
     
   </channel>

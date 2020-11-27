@@ -3,43 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/archive/</loc>
-    <lastmod>2020-11-13T11:21:57+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/webgl/introduction/</loc>
     <lastmod>2020-11-10T21:28:39+01:00</lastmod>
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/webgl/senddatatoashader/</loc>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/webdev/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/webgl/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
   </url>
   
   <url>
     <loc>/webgl/</loc>
-    <lastmod>2020-11-10T21:28:39+01:00</lastmod>
+    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
+    <lastmod>2020-11-13T11:21:57+01:00</lastmod>
   </url>
   
   <url>
