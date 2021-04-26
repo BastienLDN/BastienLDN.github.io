@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PixiJS on bldn.</title>
+    <link>/tags/pixijs/</link>
+    <description>Recent content in PixiJS on bldn.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 11:25:25 +0100</lastBuildDate><atom:link href="/tags/pixijs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction - PixiJS</title>
+      <link>/pixijs/introduction/</link>
+      <pubDate>Wed, 20 Jan 2021 11:25:25 +0100</pubDate>
+      
+      <guid>/pixijs/introduction/</guid>
+      <description>A brief introduction to PixiJS</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,8 +8,68 @@
   </url>
   
   <url>
+    <loc>/projects/3dscroll/</loc>
+    <lastmod>2021-04-26T14:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
+    <lastmod>2021-04-26T14:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/projects/</loc>
+    <lastmod>2021-04-26T14:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2021-04-26T14:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-26T14:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/croustishop/</loc>
+    <lastmod>2021-04-26T12:28:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/chatcord/</loc>
+    <lastmod>2021-04-26T12:16:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threejs/introduction/</loc>
+    <lastmod>2021-04-06T10:58:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/threejs/</loc>
+    <lastmod>2021-04-06T10:58:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threejs/</loc>
+    <lastmod>2021-04-06T10:58:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pixijs/introduction/</loc>
+    <lastmod>2021-01-20T11:25:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pixijs/</loc>
+    <lastmod>2021-01-20T11:25:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pixijs/</loc>
+    <lastmod>2021-01-20T11:25:25+01:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +79,6 @@
   
   <url>
     <loc>/webgl/senddatatoashader/</loc>
-    <lastmod>2020-11-26T12:29:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-11-26T12:29:07+01:00</lastmod>
   </url>
   
